@@ -1,0 +1,27 @@
+.home-container-1{
+    min-height: 100vh;
+    max-width: 1250px;
+    width: 100%;
+    display: flex;
+    /* justify-content: space-between; */
+    margin: 0% auto;
+}
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: rgb(196, 105, 181);
+    text-shadow: 2px 2px 5px red;
+    
+   
+}
+.welcome{
+  width: 1000px;
+  border: 15px solid rgb(76, 169, 197);
+  padding: 50px;
+  height: fit-content;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
